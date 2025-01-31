@@ -1,0 +1,17 @@
+1. Registers
+A = write operation value
+C = instruction
+D = data (incremented, but points to location for data manip)
+
++b(29e*j1VMEKLyC})8&m#~W>qxdRp0wkrUo[D7,XTcA"lI
+.v%{gJh4G\-=O@5`_3i<?Z';FNQuY]szf$!BS/|t:Pn6^Ha
+
+^
+|
+Table of indexed characters
+
+C = 0
+
+j
+    data pointer = value in the cell pointed to by the current data pointer
+
